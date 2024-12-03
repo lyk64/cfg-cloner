@@ -3,6 +3,8 @@
 ## Overview
 This program dumps the cfgspace and writemask of a PCIe device.
 
+Note: This program is experimetal and can crash PCs under certain circumstances so be sure to save all of your work before using. Quirks are being ironed out.
+
 ## Installation
 1. Clone the repository:
 
