@@ -39,5 +39,7 @@ Note: This program is experimetal and can crash PCs under certain circumstances 
 
 12. Click Run
 
+13. The cfgspace and writemask .coe files will be in the C:\MindShare\Arbor\python
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
