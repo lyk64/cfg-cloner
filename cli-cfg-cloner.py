@@ -13,7 +13,7 @@ def initialize_driver():
 
 def get_device_bdf():
     while True:
-        bdf_input = raw_input("Enter the device BDF (e.g., 4:0:0): ")  # Use raw_input for Python 2.7
+        bdf_input = raw_input("Enter the device BDF (e.g., 4:0:0): ")
         try:
             bdf_parts = [int(x, 16) for x in bdf_input.split(":")]
             return BDF(*bdf_parts)
