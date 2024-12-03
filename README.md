@@ -17,7 +17,7 @@ This program dumps the cfgspace and writemask of a PCIe device.
 2. Click Local System
 3. Open the dropdown on Local System and click Rescan
 4. Click PCI Config and sort by Linear
-5. Find the BDF of your PCIe device. Ex: 6:0:0
+5. Note the BDF of your PCIe device. Ex: 6:0:0
 6. At the top of the program, click Python Scripts
 7. Click Run Script File
 8. Click the Version drop down and select New Configuration
